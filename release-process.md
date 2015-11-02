@@ -30,4 +30,4 @@ For example: the same Ref Server can have a Ref Server-local tag
 calling it e.g. version `0.2.1abedfc`, but it and its corresponding
 `schemas` commit would also be tagged as e.g. `ga4gh_release_0.6.0`.
 
-![Release process flow][releases.png]
+![Release process flow](releases.png)
