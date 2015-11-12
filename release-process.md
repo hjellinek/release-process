@@ -22,7 +22,6 @@
 - Topic CI: A PR against a topic branch must pass CI to be merged
 
 ## Suggested Release Cadence
-- Use "Release Train" Model
 - Aim for new release every ??? weeks
 - Any topic branches to be included in a release should be merged into master 2 weeks before planned release date, to allow for testing and bugfixes on master
 - A regular release cadence will switch the discussion from "when should the next release be" to "what features are mature enough to be included in the next release" - if a feature isn't yet ready, it will simply be delayed until the next regular release
